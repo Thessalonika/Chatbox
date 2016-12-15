@@ -13,9 +13,13 @@ create a message in a chat
 Install Objective C Chat SDK Installation using these steps:  
 Automatic Installation via CocoaPods 
 i) Open terminal and navigate (cd ~) to project root directory and run command 'pod init' in terminal 
+
 ii) Go to project directory 'open Podfile' and add code in that -  pod 'Applozic', '3.7.2' 
+
 iii) run 'pod install' 
+
 iv) open Chatbox.xcworkspace  
+
 Features:  
 One to one and Group Chat  
 Image capture  
