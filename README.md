@@ -2,12 +2,19 @@
 Simple chat app using Applozic framework. 
 Objective C Simple Chat app using Applozic framework in which users can:  
 register 
+
 login 
+
 view their profile 
+
 edit their profile 
+
 list all chats
+
 create a chat 
+
 view all messages in a chat 
+
 create a message in a chat  
 
 Install Objective C Chat SDK Installation using these steps:  
@@ -19,6 +26,8 @@ ii) Go to project directory 'open Podfile' and add code in that -  pod 'Applozic
 iii) run 'pod install' 
 
 iv) open Chatbox.xcworkspace  
+
+v) Run project
 
 Features:  
 One to one and Group Chat  
